@@ -1,4 +1,5 @@
 # Path-Finding-Algorithm-Visualizer
+
 Through these project we will see the inner workings of different graph algorithms , and there visual implementations.
 
 We can observe the workings of different path finding algorithms :->
